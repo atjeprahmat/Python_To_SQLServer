@@ -46,6 +46,23 @@ Anda dapat menemukan nama database di bawah menu Object Explorer (di bawah bagia
 Dalam contoh kami, nama database adalah: TestDB
 
 SQL Server - Nama Basis Data
+
+ CREATE DATABASE TestDB_Python;
+
+ USE TestDB_Python;
+
+ CREATE TABLE Person (Name VARCHAR(100), Age INT, City VARCHAR(100));
+
+ SELECT * FROM Person;
+
+
+ INSERT INTO Person VALUES('Jade','20','London'),
+ ('Marry','119','NY'),
+ ('Martin','25','London'),
+ ('Rob','35','Geneva'),
+ ('Maria','42','Paris'),
+ ('Jon','28','Toronto')
+
 Langkah 4: Dapatkan nama tabel
 
 Sekarang Anda harus mendapatkan nama tabel yang Anda inginkan.
