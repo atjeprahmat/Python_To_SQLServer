@@ -47,7 +47,7 @@ Dalam contoh kami, nama database adalah: TestDB
 
 SQL Server - Nama Basis Data
 
- CREATE DATABASE TestDB_Python;
+    CREATE DATABASE TestDB_Python;
 
     USE TestDB_Python;
 
