@@ -12,13 +12,13 @@ Untuk memulai, mari tinjau contoh, di mana:
     Nama Tabel adalah: dbo.Person
     Tabel dbo.Person berisi data berikut:
     
-# Name	  Age	  City
-# Jade	  20	  London
-# Mary	  119	  NY
-# Martin	25	  London
-# Rob	    35	  Geneva
-# Maria	  42	  Paris
-# Jon	    28	  Toronto
+Name	  Age	  City
+Jade	  20	  London
+Mary	  119	  NY
+Martin	  25	  London
+Rob	      35	  Geneva
+Maria	  42	  Paris
+Jon	      28	  Toronto
 
 Langkah-langkah untuk Menghubungkan Python ke SQL Server menggunakan pyodbc
 Langkah 1: Instal pyodbc
